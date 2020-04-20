@@ -1,0 +1,5 @@
+What is exception handling and what problem does it solve?
+
+Exception handling is a specific process that deals with errors in a manageable and predictable way. 
+
+It solves the problem of our programs coming to a grinding halt when something unpredictable happens, allowing it to provide an error and continue to run as it normally would.
