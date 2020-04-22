@@ -1,7 +1,7 @@
-What's the major difference between an Array and a Hash?
+Q: What's the major difference between an Array and a Hash?
 
-My answer: Hash order doesn't matter. Arrays don't have labels. 
+My A: Hash order doesn't matter. Arrays don't have labels. 
 
-Given answer: A hash contains a key value pair for referencing by key. 
+Given A: A hash contains a key value pair for referencing by key. 
 
 Kind of correct? Since arrays don't have the labels, it addresses them not having key value pairs to reference by key. 
