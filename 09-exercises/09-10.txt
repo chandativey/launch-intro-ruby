@@ -1,0 +1,17 @@
+Q: Can hash values be arrays? Can you have an array of hashes? (give examples)
+
+A: Sure, hash values can be arrays as long as labeling isn't important. It might be confusing to see values without keys clarifying what they are though - for example if you had the test scores for students in a class, you could have an array of those scores, but wouldn't know who they belonged to. 
+hash = {scores: [90, 100, 70]}
+
+Yes, you can have an array of hashes:
+scores = [{jessie: 90}, {andy: 100}, {cooper: 70}]
+
+Given A: Yes
+
+# hash values as arrays
+hash = {names: ['bob', 'joe', 'susan']}
+
+# array of hashes
+arr = [{name: 'bob'}, {name: 'joe'}, {name: 'susan'}]
+
+Comments after seeing given A: Oops, I didn't realize this didn't ask for why lol. 
